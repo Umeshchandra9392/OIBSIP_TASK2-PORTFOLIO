@@ -1,2 +1,2 @@
-# OIBSIP_TASK2-PORTFOLIO-
+# PORTFOLIO-
 I developed this Portfolio website using HTML and CSS.
